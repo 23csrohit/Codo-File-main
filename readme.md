@@ -24,7 +24,7 @@
   ## Installation 
     1. Open Command Prompt\ Terminal
 
-    2. git clone https://github.com/faizan619/Codo-File.git
+    2. git clone https://github.com/23csrohit/Codo-File-main
 
     3. cd .\Codo-File\
 
