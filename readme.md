@@ -47,6 +47,10 @@
     12. npm run both
 
 
+## [ B ] Contributor
+
+### - This Whole Project Solely Belong to **[Rohit Yadav](https://github.com/23csrohit/Portfolio-)**.
+
 ## Contact Information
 
  ###  ![Instagram](./documentation/Project%20Assets/icons8-github-20.png) [Github](https://github.com/23csrohit)  
