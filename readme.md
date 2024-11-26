@@ -10,10 +10,7 @@
     
     3 Do try this Code Editor andd give your Precious Feedback .(feedback form already available in home page of CodoFile Page ).
 
- ## Preview 
 
- ### 1. *[Frontend Demo](https://codofile-85b0c.web.app/)*
- ### 2. *[Backend Demo](https://codofile-backend.onrender.com/)*
   
   ## Requirement
 
@@ -49,43 +46,6 @@
 
     12. npm run both
 
-# About this Project
-
-## [ A ] Overview of CodoFile Compiler 
-  <!-- ![Overview](./images/overview.png) -->
-  ### 1. Home Page
-  ![HomePage](./documentation/Project%20Assets/HomePage.PNG)
-
-  ### 2. JavaScript Editor Page
-  ![JavaScriptEditorPage](./documentation/Project%20Assets/JavascriptEditorPage.PNG)
-
-  ### 3. Python Editor Page
-  ![PythonEditorpage](./documentation/Project%20Assets/PythonEditorPage.PNG)
-
-  ### 4. Dart Editor Page
-  ![DartEditorPage](./documentation/Project%20Assets/DartPage.PNG)
-
-  ### 5. Html Editor Page
-  ![HtmlEditorPage](./documentation/Project%20Assets/htmlPage.PNG)
-
-  ### 6. Voice to Text Page
-  ![VoiceToTextPage](./documentation/Project%20Assets/Image2TextPage.PNG)
-
-  ### 7. Image to Text Page
-  ![ImageToTextPage](./documentation/Project%20Assets/Voice2TextPage.PNG)
-
-  ### 8. Page not Found Page
-  ![PageNotFoundPage](./documentation/Project%20Assets/PagenotfoundPage.PNG)
-
-  ### 9. Login Page
-  ![LoginPage](./documentation/Project%20Assets/LoginPage.PNG)
-
-  ### 10. Register Page
-  ![RegisterPage](./documentation/Project%20Assets/RegisterPage.PNG)
-
-## [ B ] Contributor
-
-### - This Whole Project Solely Belong to **[Rohit Yadav](https://github.com/23csrohit/Portfolio-)**.
 
 ## Contact Information
 
